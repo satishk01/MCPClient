@@ -1,0 +1,23 @@
+First sample
+{
+  "mcpServers": {
+    "playwright-mcp Docs": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://gitmcp.io/microsoft/playwright-mcp"
+      ]
+    }
+  }
+}
+
+
+Second sample
+
+{
+  "mcpServers": {
+    "LLMsample Docs": {
+      "url": "https://gitmcp.io/satishk01/LLMsample"
+    }
+  }
+}
